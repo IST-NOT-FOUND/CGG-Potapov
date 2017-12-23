@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b21f464-8c38-4ccd-b692-4e878cfa16a7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5b21f464-8c38-4ccd-b692-4e878cfa16a7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,11 +24,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fan of triangles.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fan of triangles.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapters/lab-1/fan of triangles.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Drawing lines.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapters/lab-1/Drawing lines.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Drawing lines.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/Drawing lines.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -89,6 +107,8 @@
         <option value="$PROJECT_DIR$/chapters/lab-1/thre_triangles.html" />
         <option value="$PROJECT_DIR$/js/fan of traingles.js" />
         <option value="$PROJECT_DIR$/chapters/lab-1/fan of triangles.html" />
+        <option value="$PROJECT_DIR$/js/Drawing lines.js" />
+        <option value="$PROJECT_DIR$/chapters/lab-1/Drawing lines.html" />
       </list>
     </option>
   </component>
@@ -187,12 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513932253520</updated>
       <workItem from="1513932259455" duration="5601000" />
-      <workItem from="1514051898708" duration="197000" />
+      <workItem from="1514051898708" duration="415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5798000" />
+    <option name="totallyTimeSpent" value="6016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -354,6 +374,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Drawing lines.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="100" column="1" lean-forward="true" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapters/lab-1/Drawing lines.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
           <folding />
         </state>
       </provider>
