@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b21f464-8c38-4ccd-b692-4e878cfa16a7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chapters/lab-1/thre_triangles.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-1/Drawing lines.html" afterPath="$PROJECT_DIR$/chapters/lab-1/task7_drawing lines.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-1/The square of two triangle.html" afterPath="$PROJECT_DIR$/chapters/lab-1/task3_the square of two triangle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-1/cube.html" afterPath="$PROJECT_DIR$/chapters/lab-1/task2_cube.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-1/fan of triangles.html" afterPath="$PROJECT_DIR$/chapters/lab-1/task6_fan of triangles.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-1/red_triangle.html" afterPath="$PROJECT_DIR$/chapters/lab-1/task1_red_triangle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-1/two_triangels.html" afterPath="$PROJECT_DIR$/chapters/lab-1/task4_two_triangels.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-2/Drawing lines using shaders.html" afterPath="$PROJECT_DIR$/chapters/lab-2/task8_drawing lines using shaders.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-3/Setting the color of the vertex of a triangle.html" afterPath="$PROJECT_DIR$/chapters/lab-3/task9_setting the color of the vertex of a triangle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-4/Creating a 3D cube using matrices.html" afterPath="$PROJECT_DIR$/chapters/lab-4/task11_creating a 3D cube using matrices.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-4/Creating a 3D cube without using matrices.html" afterPath="$PROJECT_DIR$/chapters/lab-4/task10_creating a 3D cube without using matrices.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-4/multicolored cube.html" afterPath="$PROJECT_DIR$/chapters/lab-4/task12_multicolored cube.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-5/Animation cube.html" afterPath="$PROJECT_DIR$/chapters/lab-5/task13_animation cube.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-5/Moving the cube.html" afterPath="$PROJECT_DIR$/chapters/lab-5/task14_moving the cube.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-6/Multiple Texturing.html" afterPath="$PROJECT_DIR$/chapters/lab-6/task18_multiple texturing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-6/Texturing 3D-objects.html" afterPath="$PROJECT_DIR$/chapters/lab-6/task15_texturing 3D-objects.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-6/Texturing a rectangle.html" afterPath="$PROJECT_DIR$/chapters/lab-6/task15_texturing a rectangle.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-6/Working with texture coordinates.html" afterPath="$PROJECT_DIR$/chapters/lab-6/task16_working with texture coordinates.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-7/Lambert Lighting.html" afterPath="$PROJECT_DIR$/chapters/lab-7/task21_lambert Lighting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-7/Phong reflection model.html" afterPath="$PROJECT_DIR$/chapters/lab-7/task19_phong reflection model.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapters/lab-7/Use of materials in reflection.html" afterPath="$PROJECT_DIR$/chapters/lab-7/task20_use of materials in reflection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5b21f464-8c38-4ccd-b692-4e878cfa16a7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -77,11 +54,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task20_use of materials in reflection.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task20_use of materials in reflection.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapters/lab-7/task20_use of materials in reflection.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1275">
               <caret line="75" column="63" lean-forward="false" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indiv_task1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapters/lab-1/indiv_task1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indiv_task1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/indiv_task1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="68" column="1" lean-forward="false" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -107,16 +104,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task13_animation cube.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapters/lab-5/task13_animation cube.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="task14_moving the cube.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapters/lab-5/task14_moving the cube.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,8 +119,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -148,8 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/zad1_ red treangle.js" />
         <option value="$PROJECT_DIR$/js/chapters/lab-1/zad1_ red treangle.js" />
         <option value="$PROJECT_DIR$/chapters/lab-1/red treangle.html" />
         <option value="$PROJECT_DIR$/js/chapters/lab-1/red_triangle.js" />
@@ -198,6 +183,9 @@
         <option value="$PROJECT_DIR$/js/Lambert Lighting.js" />
         <option value="$PROJECT_DIR$/chapters/lab-7/Lambert Lighting.html" />
         <option value="$PROJECT_DIR$/chapters/lab-1/12323.html" />
+        <option value="$PROJECT_DIR$/js/tests/indiv_task1.js" />
+        <option value="$PROJECT_DIR$/js/indiv_task1.js" />
+        <option value="$PROJECT_DIR$/chapters/lab-1/indiv_task1.html" />
       </list>
     </option>
   </component>
@@ -289,6 +277,11 @@
               <item name="CGG-Potapov" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CGG-Potapov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CGG-Potapov" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -334,12 +327,12 @@
       <updated>1513932253520</updated>
       <workItem from="1513932259455" duration="5601000" />
       <workItem from="1514051898708" duration="2194000" />
-      <workItem from="1514230734268" duration="658000" />
+      <workItem from="1514230734268" duration="1456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13129000" />
+    <option name="totallyTimeSpent" value="13927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
@@ -392,33 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapters/lab-4/task11_creating a 3D cube using matrices.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <marker date="1514055459869" expanded="true" signature="155:920" ph="..." />
-            <marker date="1514055459869" expanded="true" signature="488:567" ph="..." />
-            <marker date="1514055459869" expanded="true" signature="642:832" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/multicolored cube.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapters/lab-4/task12_multicolored cube.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapters/lab-1/task5_thre_triangles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -768,6 +734,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="75" column="63" lean-forward="false" selection-start-line="75" selection-start-column="63" selection-end-line="75" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tests/indiv_task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/indiv_task1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="68" column="1" lean-forward="false" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapters/lab-1/indiv_task1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
           <folding />
         </state>
       </provider>
